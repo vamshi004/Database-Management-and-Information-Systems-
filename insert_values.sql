@@ -1,0 +1,15 @@
+INSERT INTO book values(1, 'Buttercup', '2018', 'Jack Stauber');
+INSERT INTO book values(2, 'Rambo', '2018', 'Michael Jackson');
+INSERT INTO book values(3, 'Lambalakidi', '2018', 'Jambalakidi');
+INSERT INTO student values(1, 'Chandler', 'Comp. Sci.', '2018', 'Spring');
+INSERT INTO student values(2, 'Ross', 'Paleontology', '2018', 'Spring');
+INSERT INTO student values(3, 'Joey', 'Acting', '2018', 'Spring');
+INSERT INTO issue values(1, 1, '2018-08-12', '2018-08-15');
+INSERT INTO issue values(1, 2, '2018-10-17', '2018-10-19');
+INSERT INTO issue values(1, 3, '2018-11-11', '2018-11-14');
+INSERT INTO issue values(2, 1, '2018-11-30', '2018-12-02');
+INSERT INTO issue values(2, 2, '2018-08-15', '2010-08-17');
+INSERT INTO issue values(2, 3, '2018-09-15', '2018-09-17');
+INSERT INTO issue values(3, 1, '2018-10-15', '2018-10-17');
+INSERT INTO issue values(3, 2, '2018-07-16', '2018-07-18');
+INSERT INTO issue values(3, 3, '2018-07-27', '2018-07-29');
